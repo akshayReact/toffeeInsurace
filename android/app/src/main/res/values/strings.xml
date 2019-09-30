@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beenstagram</string>
+    <string name="fb_app_id">432311760729705</string>
+    <string name="fb_login_protocol_scheme">fb{432311760729705}</string>
+</resources>
